@@ -1,5 +1,4 @@
 # Computer-Vision-Projects
-# Computer Vision Projects
 
 A collection of Computer Vision projects built using Python, OpenCV, MediaPipe, and related technologies. Each project explores a different practical application of computer vision.
 
